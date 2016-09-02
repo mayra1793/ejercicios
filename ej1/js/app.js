@@ -161,16 +161,17 @@ function asteriscos(numero){
 		}
 numero()
 */
+/*
 function numero (n){
 	for (var i = 1; i <= n; i++){
 		for(var j = 1; n >= j; j++){
 			if(i > j)
 				document.write("&nbsp;&nbsp;");
-			else{
+			else
 				document.write("*")
 			}
 			document.write("<br>")
 		}
 	}
-}
-numero (5);
+
+numero (9);*/
